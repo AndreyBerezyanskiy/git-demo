@@ -14,5 +14,3 @@ sd
 g
 sdg
 sdg
-ds
-d
